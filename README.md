@@ -1,3 +1,3 @@
 # hola-mundo
 first repo
-Go to learn code!
+# Go to learn code!
